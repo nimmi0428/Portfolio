@@ -16,7 +16,7 @@ Showcasing my projects, skills, and contact information with a nostalgic blocky 
 
 ## 🌐 Live Demo
 
-🔗 [View Website](https://nimmi0428.github.io/pixel-portfolio)
+🔗 [View Website](https://nimmi0428.github.io/Portfolio/)
 
 ---
 
